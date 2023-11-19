@@ -1,3 +1,7 @@
+# Develop for Safari Extension , and free !
+# the best safari dual-captions extension.
+# coding......
+
 ## This project is now archived (12/1/22)
 
 When I created this project, it was just for myself to learn French on YouTube. I never imagined it would reach over 30,000 installs and over 200 stars. Thank you for your support over the years. 
